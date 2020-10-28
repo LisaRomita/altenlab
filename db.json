@@ -1,0 +1,70 @@
+{
+  "utenti": [
+    {
+      "id": "mrossi",
+      "nome": "mario",
+      "cognome": "rossi",
+      "password": "mrossi",
+      "email": "m.rossi@email.com"
+    },
+    {
+      "id": "fbianchi",
+      "nome": "fabio",
+      "cognome": "bianchi",
+      "password": "fbianchi",
+      "email": "f.bianchi@email.com"
+    },
+    {
+      "id": "fverdi",
+      "nome": "francesco",
+      "cognome": "verdi",
+      "password": "fverdi",
+      "email": "fverdi@email.com"
+    }    
+  ],
+  "notizie_comuni": [
+    {
+      "titolo": "Addio al giornalista Pino Scaccia, morto per Covid lo storico inviato della Rai",
+      "testo": "E' morto Pino Scaccia, storico corrispondente della Rai. Il giornalista aveva 74 anni ed era ricoverato al San Camillo di Roma da settimane e si è aggravato a seguito delle complicazione dovute all’infezione da Covid. Il suo nome è legato a tutti i principali eventi internazionali degli ultimi 40 anni, dalla disgregazione dell’ex Unione Sovietica e della ex Jugoslavia dalla prima guerra del Golfo al conflitto serbo croato, fino alla crisi in Afghanistan, oltre al difficile dopoguerra in Iraq, dove è stato l’ultimo compagno di viaggio di Enzo Baldoni."
+    },
+    {
+      "titolo": "L'Artigiano in Fiera diventa digitale per far fronte alla pandemia",
+      "testo": "La più grande fiera internazionale dell’artigianato aperta al pubblico, che da venticinque anni valorizza l’universo artigiano e i prodotti del suo lavoro, si trasforma quest’anno in un evento totalmente digitale: Artigiano in Fiera Live. Lo ha annunciato Ge.Fi Gestione Fiere Spa dopo aver visionato le disposizioni anti-covid contenute nell'ultimo Dpcm."
+    },
+    {
+      "titolo": "Covid, i sindaci Sala e de Magistris al ministro Speranza: quella del lockdown è un'idea di Ricciardi o del ministero?",
+      "testo": "Il sindaco di Milano, Giuseppe Sala, e quello di Napoli, Luigi de Magistris, hanno scritto al ministro della Salute, Roberto Speranza, per chiedere chiarimenti sulle affermazioni del consulente del ministero, Walter Ricciardi, che ha parlato di un lockdown necessario nelle due città. 'Abbiamo scritto al ministro - ha spiegato Sala - per chiedergli se quella è un'opinione del suo consulente o del ministero', e in questo caso su quali dati è basata."
+    }
+  ],
+  "nord":[
+    {
+      "titolo": "Milano, vive nella sua auto da 5 anni: 'Sono fortunato, ho la salute'",
+      "testo": "Un matrimonio finito male e il ritorno a Milano, dove è nato, dalla Valtellina dove si era trasferito per amore. Nonostante questo Giuliano Brambilla, 66 anni, cerca di vedere il lato positivo: 'Vivo nella mia auto da 5 anni e devo dire che si può fare perché tutto sommato ho la fortuna di avere la salute', dice sorridendo. Una sistemazione di fortuna, tra Milano e Bresso, perché dopo il divorzio ha dovuto lasciare la sua casa alla ex moglie e alle figlie. "
+    },
+    {
+      "titolo": "Omicidio nella notte nell'Alessandrino, 43enne ucciso dal compagno",
+      "testo": "Un 43enne genovese originario di Recco, Fabio Spiga, è stato ucciso nella notte a Casale Monferrato, nell'Alessandrino. L'omicidio sarebbe maturato all'interno di una coppia per motivi di gelosia: a uccidere il compagno sarebbe stato infatti Luca Meloni, 43enne originario di Cagliari, che si sarebbe consegnato alle forze dell'ordine."
+    }
+  ],
+  "centro": [
+    {
+      "titolo": "Proteste per il Dpcm sulle chiusure, scontri in Piazza del Popolo a Roma",
+      "testo": "Una scena già vista in altre città da Napoli a Torino. Diversi scontri si sono verificati in piazza del Popolo a Roma in occasione della manifestazione contro l'ultimo Dpcm anti-Covid varato dal governo. La polizia ha disperso i manifestanti tramite l'uso di idranti. Sono stati incendiati alcuni cassonetti. In piazza anche i militanti di Forza Nuova. Gli agenti hanno fermato 12 persone."
+    },
+    {
+      "titolo": "Corruzione nella Sanità abruzzese: 4 arresti, c'è anche un primario",
+      "testo": "Quattro persone sono finite ai domiciliari con l'accusa, a vario titolo, di corruzione, turbativa d'asta, falso e omicidio colposo, nell'ambito di un'inchiesta sulla Sanità abruzzese. Si tratta di due imprenditori che operano nella distribuzione di apparati medicali, un agente di commercio e del primario della Cardiochirurgia dell'ospedale di Chieti, il professor Gabriele Di Giammarco, già interdetto nell'ambito di un'altra inchiesta."
+    }
+  ],
+  "sud": [
+    {
+      "titolo": "Dpcm, Musumeci a Tgcom24: 'In Sicilia un ddl per posticipare la chiusura dei ristoranti alle 22 o alle 23'",
+      "testo": "'Noi riteniamo di spostare l'orario di chiusura di bar e ristoranti alle 22 o alle 23'. Lo ha detto a Tgcom24 il presidente della Regione Sicilia, Nello Musumeci, riferendosi all'ultimo Dpcm, che impone la chiusura dei luoghi di ristorazione alle 18. Il governatore ha poi aggiunto che 'quando il governo centrale dirà che bisognerà chiudere per 24 ore, noi allora non fiateremo'."
+    },
+    {
+      "titolo": "Enna, disabile violentata in una struttura protetta: l'operatore sanitario fermato è il padre del bambino che aspetta",
+      "testo": "I primi accertamenti sul dna confermano che il 37enne operatore sanitario dell'Oasi di Troina fermato dalla polizia di Enna il 7 ottobre scorso per violenza sessuale è il padre del bambino che aspetta una giovane disabile ospite della struttura, rimasta incinta mentre era positiva al Covid-19. E' quanto emerge dalla comparazione del materiale biologico dell'indagato e del feto, disposta dal procuratore Massimo Palmeri e dai sostituti Stefania Leonte e Orazio Longo, che ha dato una compatibilità del 99,9%."
+    }
+  ]
+  
+}
